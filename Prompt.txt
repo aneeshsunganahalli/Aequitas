@@ -1,0 +1,20 @@
+Create a modern, accessible, and visually cohesive website color palette inspired by the image of “Project Aequitas.” The design should reflect equality, empowerment, and professionalism while maintaining a clean, minimal aesthetic.
+
+Color extraction and usage guidelines:
+
+Primary color: Vibrant purple (#6A2BBF or similar) — use as the main brand color for headers, buttons, and highlights.
+Accent color: Soft lavender or lilac tone derived from the background gradient — use for hover states, subtle backgrounds, and section dividers.
+Neutral tones: White (#FFFFFF) and light gray (#F5F5F5) for backgrounds and text contrast.
+Text color: Deep charcoal or near-black (#1E1E1E) for readability.
+Highlight color: A muted gold or warm beige inspired by the logo — use sparingly for icons or call-to-action emphasis.
+Design direction:
+
+Maintain high contrast for accessibility (WCAG AA or higher).
+Use generous white space and clean typography (sans-serif fonts like Poppins or Inter).
+Incorporate subtle gradients or geometric patterns inspired by the “EQUALITY” repetition motif.
+The overall tone should feel inclusive, bold, and forward-thinking.
+Deliverables expected from the LLM:
+
+CSS variables for the color palette.
+Example usage in a simple webpage layout (header, hero section, buttons, and footer).
+Optional gradient or background pattern suggestions consistent with the theme.
