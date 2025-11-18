@@ -57,8 +57,7 @@ export default function HomePage() {
               and governance.
             </p>
             <p className={styles.description}>
-              Today, the legacy of Aequitas lives on in our modern legal systems through the principle 
-              of equity, ensuring fairness and justice for all.
+              Through this concept, we try to understand how the concept persists in the current times
             </p>
           </div>
         </div>
