@@ -3,7 +3,7 @@ import Image from 'next/image';
 export default function HomePage() {
   return (
     <div className="min-h-screen bg-[#F5F5F5]">
-      <section className="bg-gradient-to-r from-[#6A2BBF] to-[#9B6DD1] py-16 md:py-24 px-4 md:px-8 text-center shadow-lg">
+      <section className="bg-linear-to-r from-[#6A2BBF] to-[#9B6DD1] py-16 md:py-24 px-4 md:px-8 text-center shadow-lg">
         <div className="max-w-[1200px] mx-auto">
           <h1 className="text-3xl md:text-[3.5rem] font-extrabold text-white mb-4 tracking-tight drop-shadow-md">
             What is Aequitas?
